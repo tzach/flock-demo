@@ -13,16 +13,16 @@ h3, h4 {
 
 .control .label {
     color: white;
-    font-size: 120%;
+    font-size: 100%;
     background-color: rgb(25,29,33);
 }
 
 .ui-button-text-only .ui-button-text {
     color: white;
-    font-size: 150%;
+    font-size: 120%;
 }
 
 
 #flock-canvas {
-  width: 1000px;
+  width: 750px;
 }
